@@ -1,0 +1,30 @@
+{
+    "saved_workouts": [
+        {
+            "name": "Push Day",
+            "exercises": [
+                {
+                    "name": "Bench Press",
+                    "sets": 4,
+                    "reps": 8
+                },
+                {
+                    "name": "Curls",
+                    "sets": 4,
+                    "reps": 10
+                },
+                {
+                    "name": "Leg Press",
+                    "sets": 2,
+                    "reps": 15
+                },
+                {
+                    "name": "Bench Press",
+                    "sets": 2,
+                    "reps": 2
+                }
+            ]
+        }
+    ],
+    "completed_workouts": []
+}
