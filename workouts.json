@@ -1,27 +1,24 @@
 {
     "saved_workouts": [
         {
-            "name": "Push Day",
+            "name": "day 5",
             "exercises": [
                 {
-                    "name": "Bench Press",
+                    "name": "press",
                     "sets": 4,
-                    "reps": 8
-                },
+                    "reps": 5,
+                    "weight": 25
+                }
+            ]
+        },
+        {
+            "name": "day 6",
+            "exercises": [
                 {
-                    "name": "Curls",
-                    "sets": 4,
-                    "reps": 10
-                },
-                {
-                    "name": "Leg Press",
-                    "sets": 2,
-                    "reps": 15
-                },
-                {
-                    "name": "Bench Press",
-                    "sets": 2,
-                    "reps": 2
+                    "name": "leg press",
+                    "sets": 7,
+                    "reps": 4,
+                    "weight": 75
                 }
             ]
         }
